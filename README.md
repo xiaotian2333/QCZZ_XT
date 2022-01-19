@@ -11,7 +11,7 @@
 ### 常用链接 ###
 - 点击链接预览：[这个项目的黑名单](https://docs.qq.com/sheet/DWUZDcG1lY1NpTWtn)
 - 举报入口：[在这里举报](docs.qq.com/form/page/DWW5hb0NURkp5THNv)
-- 更新日志:[在这里举报](https://support.qq.com/products/288846/blog-archive)
+- 更新日志:[在这里查看](https://support.qq.com/products/288846/blog-archive)
 
 ### 特点
 
